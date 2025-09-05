@@ -7,11 +7,11 @@ Eu sou aluno o <b>Arthur Maykon</b> do <b>senac cursando o multimidia</b>, estud
 
 ## 🚀 Minhas Skills
  <div align="center" style="display: inline_block">
-<code><img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="photoshop logo" />
-<code><img src="https://skillicons.dev/icons?i=illustrator" height="50" alt="illustrator logo" />
-<code><img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
-<code><img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
-<code><img src="https://skillicons.dev/icons?i=robloxstudio" height="50" alt="css logo" />
+<img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="photoshop logo" />
+<img src="https://skillicons.dev/icons?i=illustrator" height="50" alt="illustrator logo" />
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
+<img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+<img src="https://skillicons.dev/icons?i=robloxstudio" height="50" alt="css logo" />
 </div>
 
 
